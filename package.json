@@ -15,6 +15,7 @@
     "express-session": "^1.15.6",
     "fs": "0.0.1-security",
     "jquery": "^3.2.1",
-    "mongoose": "^4.13.4"
+    "mongoose": "^4.13.4",
+    "xml": "^1.0.1"
   }
 }

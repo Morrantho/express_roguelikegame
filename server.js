@@ -2,6 +2,7 @@
 var express = require('express');
 var app = express();
 var session = require("express-session");
+var xml = require("xml");
 app.use(session({secret: "iwannabeagamedeveloper"}));
 
 // Require path
